@@ -1,3 +1,4 @@
 # Slack
+Slack homepage clone from mid-2017   .   HTML, CSS
 
-https://aleksandra5kovic.github.io/Slack/
+Live Demo: https://aleksandra5kovic.github.io/slack/
